@@ -1,0 +1,71 @@
+html{
+   height: 100%;
+}
+
+
+
+
+* header {
+
+    /* riot games */
+
+
+position: absolute;
+width: 79px;
+height: 40px;
+
+background: #FFFFFF;
+}
+
+header {
+    /* Rectangle 128 */
+
+
+position: absolute;
+width: 2px;
+height: 42px;
+
+background: #FFFFFF;
+}
+
+header {
+ position: absolute;
+width: 2660px;
+height: 132px;
+background: #1F2326;
+}
+
+li {
+    float: left;
+    list-style: none;
+    padding: 10px;
+ 
+    
+}
+
+a {
+    width: 72px;
+    height: 14px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    margin-top:55px ;
+    margin-bottom:63px ;
+ 
+ 
+    color: #FFFFFF;
+}
+
+footer {
+    position: absolute;
+    width: 2660px;
+    height: 82px;
+    
+    background: black;
+    border-radius: 0px 0px 32px 32px;
+
+}
